@@ -27,7 +27,7 @@ This is a simple Python GUI app to calculate the **optimal selling price** for a
 1️⃣ **Clone the repository**
 
 
-git clone https://github.com//optimal_price_calculator.git
+git clone https://github.com/MahimaSinghRathore/optimal_price_calculator.git
 cd optimal_price_calculator
 
 2️⃣ Install dependencies
